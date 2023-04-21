@@ -8,3 +8,7 @@ models, middlewares,routers,controllers
 databse connectivity
 mongodb
 post,get
+
+
+api:
+https://nodejs-server-making.mitalsapkale1.repl.co/api/v1/userinfo 
