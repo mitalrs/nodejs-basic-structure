@@ -2,19 +2,19 @@
 for practice
 <br/>
 #### basic command for start and initial packages
-- basic command for start
+- *basic command for start:*
 > $ npm init -y
--init ial packages:
+- *init ial packages:*
 > $ npm i express
 > $ npm i -D nodemon
 
 #### Containt 
-rest api
-server creat
-models, middlewares,routers,controllers
-databse connectivity
-mongodb
-post,get
+1. rest api
+2. server creat
+3. models, middlewares,routers,controllers
+4. databse connectivity
+5. mongodb
+6. post,get
 
 
 #### api:
